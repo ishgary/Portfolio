@@ -1,0 +1,22 @@
+body{
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-image: url(giphy.webp);
+
+}
+#aboutus h1{margin-bottom: 25px;}
+.img-wrap{width: 100%;}
+.img-wrap img{
+	width: 100%;
+	padding: 10px;
+	border-radius: 25%;
+	box-shadow: 0 0 10px #999999;
+}
+p{
+	color: #fff;
+}
+h1{
+	color: #3DCFD3;
+}
